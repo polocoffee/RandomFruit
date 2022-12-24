@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomFruits</string>
+    <string name="switch_to_grapes">Switch to Grapes</string>
+    <string name="switch_to_apple">Switch to Apple</string>
+    <string name="random_image">Random Image</string>
+    <string name="imageFruit">imageFruit</string>
+</resources>
